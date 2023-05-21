@@ -6,4 +6,7 @@
 
 
 ## DB
-1."Chat2DB" https://github.com/alibaba/Chat2DB
+1. "Chat2DB" https://github.com/alibaba/Chat2DB
+
+## Redis
+1. "cachecloud" https://github.com/sohutv/cachecloud
