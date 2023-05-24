@@ -6,11 +6,19 @@
 
 
 ## DB
-1. "Chat2DB" https://github.com/alibaba/Chat2DB
+1. "Chat2DB" https://github.com/alibaba/Chat2DB 
 
 ## Redis
-1. "cachecloud" https://github.com/sohutv/cachecloud
-2. "redisson" https://github.com/redisson/redisson
+1. "cachecloud" https://github.com/sohutv/cachecloud    
+2. "redisson" https://github.com/redisson/redisson  
+
+## Network
+1. "kcp" https://github.com/skywind3000/kcp 
+
+## Distributed System
+1. "helix" https://helix.apache.org 
+
+## Scala
 
 
 ## PDF
