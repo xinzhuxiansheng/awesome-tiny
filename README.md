@@ -4,9 +4,13 @@
 
 >本仓库收集可实战项目，用“tiny”精神学习技术。
 
-
 ## DB
 1. "Chat2DB" https://github.com/alibaba/Chat2DB 
+2. "micro-DB" https://github.com/nothingax/micro-DB (Java)
+
+## KV存储
+1. "flower-corp" https://github.com/flower-corp
+2. "database-learning" https://github.com/flower-corp/database-learning
 
 ## Redis
 1. "cachecloud" https://github.com/sohutv/cachecloud    
