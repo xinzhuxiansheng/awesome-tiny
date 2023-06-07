@@ -47,9 +47,11 @@
 1. "ArchKnowledgeTree" https://github.com/evasnowind/ArchKnowledgeTree  
 2. "distributed-dev-learning" https://github.com/evasnowind/distributed-dev-learning    
 3. "doocs" https://github.com/doocs
+4. "God-Of-BigData" https://github.com/wangzhiwubigdata/God-Of-BigData/tree/master
 
 ### Algorithms
 1. "Algorithms" https://github.com/TheAlgorithms    
 
 ### Go
 1. "go-awesome" https://github.com/shockerli/go-awesome  
+2. "Introduction-to-Golang" https://github.com/0voice/Introduction-to-Golang
