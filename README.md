@@ -37,7 +37,8 @@
 1. "netty-socketio" https://github.com/mrniko/netty-socketio
 
 ### Flink
-1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand
+1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
+2. "flink-SourceCode-learning" https://github.com/XuHaoRran/flink-SourceCode-learning
 
 ### PDF
 1. "java-books" https://github.com/Tyson0314/java-books
@@ -54,4 +55,7 @@
 
 ### Go
 1. "go-awesome" https://github.com/shockerli/go-awesome  
-2. "Introduction-to-Golang" https://github.com/0voice/Introduction-to-Golang
+2. "Introduction-to-Golang" https://github.com/0voice/Introduction-to-Golang    
+
+### ChatGPT & AIGC  
+1. "Prompt-Engineering-Guide-Chinese" https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese
