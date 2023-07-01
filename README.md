@@ -29,7 +29,8 @@
 1. "helix" https://helix.apache.org 
 2. "patterns-of-distributed-systems" https://github.com/dreamhead/patterns-of-distributed-systems
 3. "6.824" https://www.bilibili.com/video/BV1qk4y197bB/?vd_source=89b3f4bd088c6355f40a00df74cf8ffd
-4. "6.824" https://pdos.csail.mit.edu/6.824/
+4. "6.824" https://pdos.csail.mit.edu/6.824/    
+5. "hazelcast" https://github.com/hazelcast/hazelcast
 
 ### MQ
 1. "nsq" https://github.com/nsqio/nsq
