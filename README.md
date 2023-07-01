@@ -12,6 +12,7 @@
 ### KV存储
 1. "flower-corp" https://github.com/flower-corp
 2. "database-learning" https://github.com/flower-corp/database-learning
+3. "bee-cache" https://github.com/gabrywu/bee-cache
 
 ### Redis
 1. "cachecloud" https://github.com/sohutv/cachecloud    
@@ -27,6 +28,8 @@
 ### Distributed System
 1. "helix" https://helix.apache.org 
 2. "patterns-of-distributed-systems" https://github.com/dreamhead/patterns-of-distributed-systems
+3. "6.824" https://www.bilibili.com/video/BV1qk4y197bB/?vd_source=89b3f4bd088c6355f40a00df74cf8ffd
+4. "6.824" https://pdos.csail.mit.edu/6.824/
 
 ### MQ
 1. "nsq" https://github.com/nsqio/nsq
@@ -56,6 +59,20 @@
 ### Go
 1. "go-awesome" https://github.com/shockerli/go-awesome  
 2. "Introduction-to-Golang" https://github.com/0voice/Introduction-to-Golang    
+3. "btree" https://github.com/google/btree (Go) 
+4. 
 
 ### ChatGPT & AIGC  
-1. "Prompt-Engineering-Guide-Chinese" https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese
+1. "Prompt-Engineering-Guide-Chinese" https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese  
+
+### SSH 
+1. "jsch" http://www.jcraft.com/jsch/ (Java)    
+
+### 模拟数据生成    
+1. "common-random" https://github.com/yindz/common-random
+
+### Kubernetes  
+1. "kubeasz" https://github.com/easzlab/kubeasz 
+
+### 大数据  
+1."Taier" https://github.com/DTStack/Taier (大数据管理平台)
