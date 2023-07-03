@@ -12,15 +12,19 @@
 ### KV存储
 1. "flower-corp" https://github.com/flower-corp
 2. "database-learning" https://github.com/flower-corp/database-learning
-3. "bee-cache" https://github.com/gabrywu/bee-cache
+3. "bee-cache" https://github.com/gabrywu/bee-cache 
+4. "pebble" https://github.com/cockroachdb/pebble
 
 ### Redis
-1. "cachecloud" https://github.com/sohutv/cachecloud    
-2. "redisson" https://github.com/redisson/redisson  
-3. "java-redis-rdb" https://github.com/ganghuawang/java-redis-rdb
+1. "cachecloud" https://github.com/sohutv/cachecloud        
+2. "redisson" https://github.com/redisson/redisson      
+3. "java-redis-rdb" https://github.com/ganghuawang/java-redis-rdb       
+4. "x-pipe" https://github.com/ctripcorp/x-pipe     
+5. "redis7.0-chinese-annotated" https://github.com/CN-annotation-team/redis7.0-chinese-annotated    
+
 
 ### Network
-1. "kcp" https://github.com/skywind3000/kcp 
+1. "kcp" https://github.com/skywind3000/kcp     
 
 ### Netty
 1. "netty-learning-example" https://github.com/sanshengshui/netty-learning-example
