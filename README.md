@@ -7,7 +7,8 @@
 ### DB
 1. "Chat2DB" https://github.com/alibaba/Chat2DB 
 2. "micro-DB" https://github.com/nothingax/micro-DB (Java)
-3. "binlogportal" https://github.com/dothetrick/binlogportal
+3. "binlogportal" https://github.com/dothetrick/binlogportal    
+4. "genji" https://github.com/genjidb/genji (Go)    
 
 ### KV存储
 1. "flower-corp" https://github.com/flower-corp
