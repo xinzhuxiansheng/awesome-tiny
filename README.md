@@ -89,7 +89,8 @@
 1. "common-random" https://github.com/yindz/common-random
 
 ### Kubernetes  
-1. "kubeasz" https://github.com/easzlab/kubeasz     
+1. "kubeasz" https://github.com/easzlab/kubeasz
+2. "sealos" https://github.com/labring/sealos   
 
 ### 大数据  
 1. "Taier" https://github.com/DTStack/Taier (大数据管理平台)    
