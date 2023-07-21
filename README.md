@@ -49,6 +49,17 @@
 1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
 2. "flink-SourceCode-learning" https://github.com/XuHaoRran/flink-SourceCode-learning
 
+### Flink平台
+1. "flink-streaming-platform-web" https://github.com/zhp8341/flink-streaming-platform-web
+2. "incubator-streampark" https://github.com/apache/incubator-streampark
+3. "dinky" https://github.com/DataLinkDC/dinky
+4. "zeppelin" https://github.com/apache/zeppelin
+5. "chunjun" https://github.com/DTStack/chunjun
+6. "tis" https://github.com/datavane/tis
+7. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage
+8. "linkis" https://github.com/apache/linkis
+
+
 ### PDF
 1. "java-books" https://github.com/Tyson0314/java-books
 2. "CS-Books" https://github.com/forthespada/CS-Books
