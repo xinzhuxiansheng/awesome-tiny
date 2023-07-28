@@ -58,6 +58,7 @@
 6. "tis" https://github.com/datavane/tis
 7. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage
 8. "linkis" https://github.com/apache/linkis
+9. "flink-sql-beautifier" https://github.com/weaksloth/flink-sql-beautifier (Flink SQL格式化)
 
 
 ### PDF
