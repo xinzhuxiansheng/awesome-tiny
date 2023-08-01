@@ -60,6 +60,9 @@
 8. "linkis" https://github.com/apache/linkis
 9. "flink-sql-beautifier" https://github.com/weaksloth/flink-sql-beautifier (Flink SQL格式化)
 
+### 实时相关
+1. "incubator-celeborn" https://github.com/apache/incubator-celeborn
+
 
 ### PDF
 1. "java-books" https://github.com/Tyson0314/java-books
