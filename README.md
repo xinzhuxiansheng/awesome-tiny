@@ -56,10 +56,9 @@
 4. "zeppelin" https://github.com/apache/zeppelin
 5. "chunjun" https://github.com/DTStack/chunjun
 6. "tis" https://github.com/datavane/tis
-7. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage
+7. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage (FlinkSQL字段血缘解决方案)
 8. "linkis" https://github.com/apache/linkis
 9. "flink-sql-beautifier" https://github.com/weaksloth/flink-sql-beautifier (Flink SQL格式化)
-10. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage (FlinkSQL字段血缘解决方案)
 
 ### 实时相关
 1. "incubator-celeborn" https://github.com/apache/incubator-celeborn
