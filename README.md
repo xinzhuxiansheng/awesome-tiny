@@ -87,7 +87,10 @@
 1. "Prompt-Engineering-Guide-Chinese" https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese  
 
 ### SSH 
-1. "jsch" http://www.jcraft.com/jsch/ (Java)    
+1. "jsch" http://www.jcraft.com/jsch/ (Java)
+
+### 终端/SHELL
+1. "jline" https://github.com/jline/jline3 (控制台)
 
 ### 模拟数据生成    
 1. "common-random" https://github.com/yindz/common-random
