@@ -59,6 +59,7 @@
 7. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage
 8. "linkis" https://github.com/apache/linkis
 9. "flink-sql-beautifier" https://github.com/weaksloth/flink-sql-beautifier (Flink SQL格式化)
+10. "flink-sql-lineage" https://github.com/HamaWhiteGG/flink-sql-lineage (FlinkSQL字段血缘解决方案)
 
 ### 实时相关
 1. "incubator-celeborn" https://github.com/apache/incubator-celeborn
