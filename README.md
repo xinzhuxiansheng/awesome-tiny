@@ -48,6 +48,7 @@
 ### Flink
 1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
 2. "flink-SourceCode-learning" https://github.com/XuHaoRran/flink-SourceCode-learning
+3. "superior-sql-parser" https://github.com/melin/superior-sql-parser (sql 解析器)
 
 ### Flink平台
 1. "flink-streaming-platform-web" https://github.com/zhp8341/flink-streaming-platform-web
