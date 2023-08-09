@@ -107,6 +107,7 @@
 1. "Taier" https://github.com/DTStack/Taier (大数据管理平台)
 2. "datasophon" https://github.com/datavane/datasophon（致力于快速实现部署、管理、监控以及自动化运维大数据云原生平台，帮助您快速构建起稳定、高效、可弹性伸缩的大数据云原生平台）
 3. "bitsail" https://github.com/bytedance/bitsail (分布式架构的高性能数据集成引擎)
+4. "CloudEon" https://github.com/dromara/CloudEon (CloudEon云原生大数据平台)
 
 ### 基准测试 Benchmark
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
