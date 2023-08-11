@@ -115,4 +115,10 @@
 2. "go-ycsb" https://github.com/pingcap/go-ycsb
 
 ### Akka  
-1. "openjob" https://github.com/open-job/openjob (分布式任务调度) 
+1. "openjob" https://github.com/open-job/openjob (分布式任务调度)
+
+### 日志打印（操作日志）  
+1. "mzt-biz-log" https://github.com/mouzt/mzt-biz-log
+2. "log-record" https://github.com/qqxx6661/log-record
+3. "easy-log" https://github.com/flyhero/easy-log
+
