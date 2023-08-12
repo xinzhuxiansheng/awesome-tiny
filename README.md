@@ -63,6 +63,7 @@
 10. "Bigdata_Code_Tutorial" https://github.com/SophiaData/Bigdata_Code_Tutorial (整库同步代码)
 11. "Alink" https://github.com/alibaba/Alink (Alink是基于Flink的通用算法平台)
 12. "scaleph" https://github.com/flowerfine/scaleph (基于 Flink 和 Kubernetes 打造的开放数据平台，具备 Flink 和 SeaTunnel 任务管理能力)
+13. "DataSphereStudio" https://github.com/WeBankFinTech/DataSphereStudio (DataSphere Studio（简称 DSS）是微众银行自研的数据应用开发管理集成框架。基于插拔式的集成框架设计，及计算中间件 Linkis )
 
 ### 实时相关
 1. "incubator-celeborn" https://github.com/apache/incubator-celeborn
