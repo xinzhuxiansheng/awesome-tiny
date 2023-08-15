@@ -128,3 +128,6 @@
 2. "log-record" https://github.com/qqxx6661/log-record
 3. "easy-log" https://github.com/flyhero/easy-log
 
+### 监控  
+1. "hertzbeat" https://github.com/dromara/hertzbeat (易用友好的开源实时监控告警系统，无需Agent，高性能集群，强大自定义监控能力.)
+
