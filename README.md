@@ -40,6 +40,9 @@
 ### MQ
 1. "nsq" https://github.com/nsqio/nsq
 
+### Java
+1. "asyncTool" https://gitee.com/jd-platform-opensource/asyncTool (Java多线程编排)
+
 ### Scala
 
 ### Netty
