@@ -139,3 +139,6 @@
 
 ### 英语学习
 1. "awesome-english-ebooks" https://github.com/hehonghui/awesome-english-ebooks
+
+### Prometheus 监控
+1. "prometheus-guidebook" https://github.com/ning1875/prometheus-guidebook
