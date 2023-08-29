@@ -136,3 +136,6 @@
 
 ### 翻译
 1. "ddia" https://github.com/Vonng/ddia (设计数据密集型应用 - 中文翻译)
+
+### 英语学习
+1. "awesome-english-ebooks" https://github.com/hehonghui/awesome-english-ebooks
