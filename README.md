@@ -133,12 +133,10 @@
 
 ### 监控  
 1. "hertzbeat" https://github.com/dromara/hertzbeat (易用友好的开源实时监控告警系统，无需Agent，高性能集群，强大自定义监控能力.)
+2. "prometheus-guidebook" "prometheus-guidebook" https://github.com/ning1875/prometheus-guidebook (prometheus学习)
 
 ### 翻译
 1. "ddia" https://github.com/Vonng/ddia (设计数据密集型应用 - 中文翻译)
 
 ### 英语学习
 1. "awesome-english-ebooks" https://github.com/hehonghui/awesome-english-ebooks
-
-### Prometheus 监控
-1. "prometheus-guidebook" https://github.com/ning1875/prometheus-guidebook
