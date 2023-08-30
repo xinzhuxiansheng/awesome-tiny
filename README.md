@@ -141,3 +141,6 @@
 
 ### 英语学习
 1. "awesome-english-ebooks" https://github.com/hehonghui/awesome-english-ebooks
+
+### DevOps
+1. "mone" https://github.com/XiaoMi/mone (Mone是以微服务为核心的一站式企业协同研发平台)
