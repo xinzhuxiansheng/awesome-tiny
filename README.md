@@ -145,3 +145,6 @@
 
 ### DevOps
 1. "mone" https://github.com/XiaoMi/mone (Mone是以微服务为核心的一站式企业协同研发平台)
+
+### 规则引擎
+1. "liteflow" https://github.com/dromara/liteflow (规则引擎)
