@@ -150,3 +150,6 @@
 
 ### 规则引擎
 1. "liteflow" https://github.com/dromara/liteflow (规则引擎)
+
+### 测试
+1. "chaosblade" https://github.com/chaosblade-io/chaosblade (混沌测试)
