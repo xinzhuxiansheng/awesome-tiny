@@ -125,8 +125,10 @@
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
 2. "go-ycsb" https://github.com/pingcap/go-ycsb
 
-### Akka  
-1. "openjob" https://github.com/open-job/openjob (分布式任务调度)
+### 分布式调度  
+1. "openjob" https://github.com/open-job/openjob (分布式任务调度 && AKKA)
+2. "xxl-job" https://github.com/xuxueli/xxl-job
+3. "shardingsphere-elasticjob" https://github.com/apache/shardingsphere-elasticjob 
 
 ### 日志打印（操作日志）  
 1. "mzt-biz-log" https://github.com/mouzt/mzt-biz-log
