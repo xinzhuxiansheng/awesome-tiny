@@ -108,7 +108,8 @@
 
 ### Kubernetes  
 1. "kubeasz" https://github.com/easzlab/kubeasz
-2. "sealos" https://github.com/labring/sealos   
+2. "sealos" https://github.com/labring/sealos
+3. "lazydocker" https://github.com/jesseduffield/lazydocker (Docker 管理平台)
 
 ### 大数据  
 1. "Taier" https://github.com/DTStack/Taier (大数据管理平台)
@@ -153,3 +154,4 @@
 
 ### 测试
 1. "chaosblade" https://github.com/chaosblade-io/chaosblade (混沌测试)
+
