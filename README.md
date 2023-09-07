@@ -155,3 +155,5 @@
 ### 测试
 1. "chaosblade" https://github.com/chaosblade-io/chaosblade (混沌测试)
 
+### MQTT
+1. "bifromq" https://github.com/baidu/bifromq (java)
