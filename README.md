@@ -48,6 +48,9 @@
 ### Netty
 1. "netty-socketio" https://github.com/mrniko/netty-socketio
 
+### Kafka
+1. "kafka-docker" https://github.com/wurstmeister/kafka-docker (docker镜像)
+
 ### Flink
 1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
 2. "flink-SourceCode-learning" https://github.com/XuHaoRran/flink-SourceCode-learning
