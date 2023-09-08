@@ -50,6 +50,7 @@
 
 ### Kafka
 1. "kafka-docker" https://github.com/wurstmeister/kafka-docker (docker镜像)
+2. "strimzi-kafka-operator" https://github.com/strimzi/strimzi-kafka-operator (kafka on k8s)
 
 ### Flink
 1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
