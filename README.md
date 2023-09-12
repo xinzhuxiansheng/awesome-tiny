@@ -117,6 +117,7 @@
 1. "kubeasz" https://github.com/easzlab/kubeasz
 2. "sealos" https://github.com/labring/sealos
 3. "lazydocker" https://github.com/jesseduffield/lazydocker (Docker 管理平台)
+4. "operator-framework" https://github.com/operator-framework (构建 Operator Application)
 
 ### 大数据  
 1. "Taier" https://github.com/DTStack/Taier (大数据管理平台)
