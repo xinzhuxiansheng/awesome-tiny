@@ -45,6 +45,7 @@
 1. "asyncTool" https://gitee.com/jd-platform-opensource/asyncTool (Java多线程编排)
 
 ### Scala
+1. "mysql-binlog-stream" https://github.com/laserdisc-io/mysql-binlog-stream (scala 读取 binlog)
 
 ### Netty
 1. "netty-socketio" https://github.com/mrniko/netty-socketio
