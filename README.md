@@ -46,6 +46,7 @@
 
 ### Scala
 1. "mysql-binlog-stream" https://github.com/laserdisc-io/mysql-binlog-stream (scala 读取 binlog)
+2. "incubator-pekko" https://github.com/apache/incubator-pekko (akka 开源项目)
 
 ### Netty
 1. "netty-socketio" https://github.com/mrniko/netty-socketio
