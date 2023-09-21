@@ -64,6 +64,7 @@
 3. "superior-sql-parser" https://github.com/melin/superior-sql-parser (sql 解析器)
 4. "flink-faker" https://github.com/knaufk/flink-faker (模拟数据流，类似与 datagen ，blackhole)
 5. "flink-sql-security" https://github.com/HamaWhiteGG/flink-sql-security (FlinkSQL数据脱敏和行级权限解决方案及源码)
+6. "Flink-CDC-Blog" https://github.com/ververica/flink-cdc-connectors/wiki/Flink-CDC-Blog-(ZH) (Flink CDC 中文 Blog)
 
 ### Flink平台
 1. "flink-streaming-platform-web" https://github.com/zhp8341/flink-streaming-platform-web
