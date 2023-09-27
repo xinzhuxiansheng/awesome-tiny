@@ -85,7 +85,7 @@
 
 ### 实时相关
 1. "incubator-celeborn" https://github.com/apache/incubator-celeborn
-
+2. "risingwave" https://github.com/risingwavelabs/risingwave (Rust 实时)
 
 ### PDF
 1. "java-books" https://github.com/Tyson0314/java-books
