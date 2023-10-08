@@ -139,6 +139,7 @@
 5. "tapdata" https://github.com/tapdata/tapdata
 6. "pgcapture" https://github.com/replicase/pgcapture (CDC DBLog , GO)
 7. "symmetricds" https://www.symmetricds.org/ (开源的数据同步)
+8. "canal" https://github.com/alibaba/canal (数据同步)
 
 ### 基准测试 Benchmark
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
