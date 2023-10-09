@@ -66,6 +66,8 @@
 5. "flink-sql-security" https://github.com/HamaWhiteGG/flink-sql-security (FlinkSQL数据脱敏和行级权限解决方案及源码)
 6. "Flink-CDC-Blog" https://github.com/ververica/flink-cdc-connectors/wiki/Flink-CDC-Blog-(ZH) (Flink CDC 中文 Blog)
 7. "debezium" https://github.com/debezium/debezium (CDC)
+8. "sqlline" https://github.com/julianhyde/sqlline (SQLLine是一个基于Java开发的连接关系数据库和执行SQL语句的控制台工具(shell))
+9. "calcite" https://github.com/apache/calcite (SQL 引擎)
 
 ### Flink平台
 1. "flink-streaming-platform-web" https://github.com/zhp8341/flink-streaming-platform-web
