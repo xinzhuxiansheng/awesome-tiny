@@ -17,6 +17,9 @@
 3. "bee-cache" https://github.com/gabrywu/bee-cache 
 4. "pebble" https://github.com/cockroachdb/pebble
 
+### 分布式存储  
+1. "juicefs" https://github.com/juicedata/juicefs
+
 ### Redis
 1. "cachecloud" https://github.com/sohutv/cachecloud        
 2. "redisson" https://github.com/redisson/redisson      
