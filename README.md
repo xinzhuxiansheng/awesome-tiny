@@ -146,6 +146,7 @@
 7. "symmetricds" https://www.symmetricds.org/ (开源的数据同步)
 8. "canal" https://github.com/alibaba/canal (数据同步)
 9. "gobblin" https://github.com/apache/gobblin (一种分布式数据集成框架，可简化大数据集成的常见方面，例如流数据和批处理数据生态系统的数据摄取、复制、组织和生命周期管理)
+10. "maxwell" https://github.com/zendesk/maxwell (maxwell是一个可以捕获更改数据的应用程序，它读取MySQL Binlogs，并将数据更改写入JSON到KAFKA，KINESIS和其他流媒体平台)
 
 ### 基准测试 Benchmark
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
