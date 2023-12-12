@@ -71,6 +71,7 @@
 7. "debezium" https://github.com/debezium/debezium (CDC)
 8. "sqlline" https://github.com/julianhyde/sqlline (SQLLine是一个基于Java开发的连接关系数据库和执行SQL语句的控制台工具(shell))
 9. "calcite" https://github.com/apache/calcite (SQL 引擎)
+10. "compass" https://github.com/cubefs/compass (罗盘是一个大数据任务诊断平台，旨在提升用户排查问题效率，降低用户异常任务成， 支持 Flink)
 
 ### Flink平台
 1. "flink-streaming-platform-web" https://github.com/zhp8341/flink-streaming-platform-web
