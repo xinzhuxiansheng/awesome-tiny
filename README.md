@@ -60,6 +60,7 @@
 3. "kafka-quotas-plugin" https://github.com/strimzi/kafka-quotas-plugin (quotas)
 4. "koperator" https://github.com/banzaicloud/koperator (kafka on k8s)
 5. "kafka-images" https://github.com/confluentinc/kafka-images (cf kafka docker镜像)
+6. "bitnami/kafka" https://github.com/bitnami/containers/tree/main/bitnami/kafka （kafka docker镜像）
 
 ### Flink
 1. "flink_second_understand" https://github.com/threeknowbigdata/flink_second_understand    
