@@ -11,6 +11,7 @@
 4. "genji" https://github.com/genjidb/genji (Go)
 5. "bytebase" https://github.com/bytebase/bytebase
 6. "sqle" https://github.com/actiontech/sqle (SQLE 是爱可生自主研发支持多元数据库的 SQL 质量管理平台。应用于开发、测试、上线发布、生产运行阶段的 SQL 质量治理)
+7. "infinispan" https://github.com/infinispan/infinispan(Java 分布式内存数据库)
 
 ### KV存储
 1. "flower-corp" https://github.com/flower-corp
