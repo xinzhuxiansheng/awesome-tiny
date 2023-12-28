@@ -33,12 +33,21 @@
 ### Netty
 1. "netty-learning-example" https://github.com/sanshengshui/netty-learning-example
 
+### 分布式调度  
+1. "openjob" https://github.com/open-job/openjob (分布式任务调度 && AKKA)
+2. "xxl-job" https://github.com/xuxueli/xxl-job
+3. "shardingsphere-elasticjob" https://github.com/apache/shardingsphere-elasticjob 
+
+### 分布式存储  
+1. "juicefs" https://github.com/juicedata/juicefs
+
 ### Distributed System
 1. "helix" https://helix.apache.org 
-2. "patterns-of-distributed-systems" https://github.com/dreamhead/patterns-of-distributed-systems
+2. "patterns-of-distributed-systems" https://github.com/dreamhead/patterns-of-distributed-systems (《分布式系统模式》中文版)
 3. "6.824" https://www.bilibili.com/video/BV1qk4y197bB/?vd_source=89b3f4bd088c6355f40a00df74cf8ffd
 4. "6.824" https://pdos.csail.mit.edu/6.824/    
 5. "hazelcast" https://github.com/hazelcast/hazelcast
+6. "awesome-distributed-systems" https://github.com/theanalyst/awesome-distributed-systems
 
 ### MQ
 1. "nsq" https://github.com/nsqio/nsq
@@ -155,17 +164,6 @@
 ### 基准测试 Benchmark
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
 2. "go-ycsb" https://github.com/pingcap/go-ycsb
-
-### 分布式相关资料
-1. "awesome-distributed-systems" https://github.com/theanalyst/awesome-distributed-systems
-
-### 分布式调度  
-1. "openjob" https://github.com/open-job/openjob (分布式任务调度 && AKKA)
-2. "xxl-job" https://github.com/xuxueli/xxl-job
-3. "shardingsphere-elasticjob" https://github.com/apache/shardingsphere-elasticjob 
-
-### 分布式存储  
-1. "juicefs" https://github.com/juicedata/juicefs
 
 ### 日志打印（操作日志）  
 1. "mzt-biz-log" https://github.com/mouzt/mzt-biz-log
