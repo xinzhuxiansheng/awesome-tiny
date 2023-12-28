@@ -19,9 +19,6 @@
 3. "bee-cache" https://github.com/gabrywu/bee-cache 
 4. "pebble" https://github.com/cockroachdb/pebble
 
-### 分布式存储  
-1. "juicefs" https://github.com/juicedata/juicefs
-
 ### Redis
 1. "cachecloud" https://github.com/sohutv/cachecloud        
 2. "redisson" https://github.com/redisson/redisson      
@@ -159,10 +156,16 @@
 1. "YCSB" https://github.com/brianfrankcooper/YCSB    
 2. "go-ycsb" https://github.com/pingcap/go-ycsb
 
+### 分布式相关资料
+1. "awesome-distributed-systems" https://github.com/theanalyst/awesome-distributed-systems
+
 ### 分布式调度  
 1. "openjob" https://github.com/open-job/openjob (分布式任务调度 && AKKA)
 2. "xxl-job" https://github.com/xuxueli/xxl-job
 3. "shardingsphere-elasticjob" https://github.com/apache/shardingsphere-elasticjob 
+
+### 分布式存储  
+1. "juicefs" https://github.com/juicedata/juicefs
 
 ### 日志打印（操作日志）  
 1. "mzt-biz-log" https://github.com/mouzt/mzt-biz-log
