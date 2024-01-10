@@ -41,6 +41,11 @@
 ### 分布式存储  
 1. "juicefs" https://github.com/juicedata/juicefs
 
+### 分布式 技术点  
+
+#### Write-Ahead Log  
+1. "wal" https://github.com/lant/wal  
+
 ### Distributed System
 1. "helix" https://helix.apache.org 
 2. "patterns-of-distributed-systems" https://github.com/dreamhead/patterns-of-distributed-systems (《分布式系统模式》中文版)
