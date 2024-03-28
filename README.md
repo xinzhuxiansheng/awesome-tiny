@@ -13,6 +13,10 @@
 6. "sqle" https://github.com/actiontech/sqle (SQLE 是爱可生自主研发支持多元数据库的 SQL 质量管理平台。应用于开发、测试、上线发布、生产运行阶段的 SQL 质量治理)
 7. "infinispan" https://github.com/infinispan/infinispan(Java 分布式内存数据库)
 
+前端解析器 + 词法解析器 
+https://github.com/dabeaz/sly （Python）
+
+
 ### KV存储
 1. "flower-corp" https://github.com/flower-corp
 2. "database-learning" https://github.com/flower-corp/database-learning
