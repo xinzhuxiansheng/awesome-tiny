@@ -184,6 +184,8 @@ https://github.com/dabeaz/sly （Python）
 2. "prometheus-guidebook" "prometheus-guidebook" https://github.com/ning1875/prometheus-guidebook (prometheus学习)
 3. "micrometer-metrics/micrometer" https://github.com/micrometer-metrics/micrometer (metrics 上报)
 4. "dropwizard/metrics" https://github.com/dropwizard/metrics (metrics 上报)
+5. "jvm-profiler" https://github.com/uber-common/jvm-profiler (metrics)
+6. "javamelody" https://github.com/javamelody/javamelody (metrics) 
 
 ### 翻译
 1. "ddia" https://github.com/Vonng/ddia (设计数据密集型应用 - 中文翻译)
